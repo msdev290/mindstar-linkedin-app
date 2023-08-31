@@ -55,8 +55,8 @@ Python 3.10+, NodeJS and Git.
 Open a terminal and run the following commands:
 
 ```bash
-git clone https://github.com/Macktireh/mackdin.git
-cd mackdin
+git clone https://github.com/Mind1995Star/mindstar-linkedin-app.git
+cd mindstar-linkedin-app
 ```
 
 ### 3. Create and activate the virtual environment
